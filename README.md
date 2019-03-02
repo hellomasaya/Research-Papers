@@ -2,6 +2,7 @@
 
 ## 2019-03
   - Social Network and Sentiment Analysis on Twitter: Towards a Combined Approach: [Link here](http://ceur-ws.org/Vol-1489/paper-06.pdf)
+  - Sentiment Analysis on Twitter Data: [Link here](https://www.ijcsmc.com/docs/papers/June2016/V5I6201690.pdf)
 
 ## 2018-12
   - Automatic Generation of Multiple Choice Questions Using Wikipedia: [Link here](https://link.springer.com/content/pdf/10.1007%2F978-3-642-45062-4_104.pdf)
