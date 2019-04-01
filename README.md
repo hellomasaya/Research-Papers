@@ -5,7 +5,8 @@
   - Sentiment Analysis on Twitter Data: [Link here](https://www.ijcsmc.com/docs/papers/June2016/V5I6201690.pdf)
   - Analysis and Classification of Ambivalent Sexism using Twitter Data: [Link here](https://github.com/hellomasaya/Research-Papers/blob/master/Papers/sexism-twitterdata.pdf)
   - Predictive Features for Hate Speech Detection on Twitter: [Link here](https://github.com/hellomasaya/Research-Papers/blob/master/Papers/HateSpeechDetection.pdf)
-  - Deep Learning for Hate Speech Detection in Tweets : [Link here](https://github.com/hellomasaya/Research-Papers/blob/master/Papers/Deep_Learning_for_Hate_Speech_Detection_in_Tweets_(Pinkesh_Badjatiya_and_others).pdf)
+  - Deep Learning for Hate Speech Detection in Tweets: [Link here](https://github.com/hellomasaya/Research-Papers/blob/master/Papers/Deep_Learning_for_Hate_Speech_Detection_in_Tweets_(Pinkesh_Badjatiya_and_others).pdf)
+  - Automated Hate Speech Detection and the Problem of Offensive Language: [Link here](https://arxiv.org/pdf/1703.04009.pdf)
 
 ## 2018-12
   - Automatic Generation of Multiple Choice Questions Using Wikipedia: [Link here](https://link.springer.com/content/pdf/10.1007%2F978-3-642-45062-4_104.pdf)
