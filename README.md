@@ -8,7 +8,7 @@
   - Social Network and Sentiment Analysis on Twitter: Towards a Combined Approach: [Link here](http://ceur-ws.org/Vol-1489/paper-06.pdf)
   - Sentiment Analysis on Twitter Data: [Link here](https://www.ijcsmc.com/docs/papers/June2016/V5I6201690.pdf)
   - Analysis and Classification of Ambivalent Sexism using Twitter Data: [Link here](https://github.com/hellomasaya/Research-Papers/blob/master/Papers/sexism-twitterdata.pdf)
-  - Predictive Features for Hate Speech Detection on Twitter: [Link here](https://github.com/hellomasaya/Research-Papers/blob/master/Papers/HateSpeechDetection.pdf)
+  - Predictive Features for Hate Speech Detection on Twitter: [Link here](https://github.com/hellomasaya/Research-Papers/blob/master/Papers/HateSpeechDetection.pdf) and [Notes](https://github.com/hellomasaya/Research-Papers/blob/master/Notes/Predictive-Features-for-Hate-Speech-Detection-on-Twitter.md)
   - Deep Learning for Hate Speech Detection in Tweets: [Link here](https://github.com/hellomasaya/Research-Papers/blob/master/Papers/Deep_Learning_for_Hate_Speech_Detection_in_Tweets_(Pinkesh_Badjatiya_and_others).pdf)
 
 ## 2018-12
