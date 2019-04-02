@@ -3,6 +3,10 @@
 ## 2019-04
    - Automated Hate Speech Detection and the Problem of Offensive Language: [Link here](https://arxiv.org/pdf/1703.04009.pdf)
    and [Notes](https://github.com/hellomasaya/Research-Papers/blob/master/Notes/Automated-Hate-Speech-Detection-and-the-Problem-of-Offensive-Language.md)
+   - POLARITY DETECTION OF MOVIE REVIEWS IN HINDI LANGUAGE: [Link here](https://github.com/hellomasaya/Research-Papers/blob/master/Papers/moviereviews.pdf)
+   - Analyzing Political Sentiment on Twitter: [Link here](https://github.com/hellomasaya/Research-Papers/blob/master/Papers/SentimentAnalysis.pdf)
+   - SENTIMENT ANALYSIS OF MOVIE REVIEWS IN HINDI: [Link here](https://github.com/hellomasaya/Research-Papers/blob/master/Papers/moviereview2.pdf)
+   - Rule-based Sentiment Analysis for Financial News: [Link here](https://github.com/hellomasaya/Research-Papers/blob/master/Papers/07379415.pdf)
    
 ## 2019-03
   - Social Network and Sentiment Analysis on Twitter: Towards a Combined Approach: [Link here](http://ceur-ws.org/Vol-1489/paper-06.pdf)
