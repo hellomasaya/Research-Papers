@@ -2,6 +2,7 @@
 
 ## 2019-04
    - Automated Hate Speech Detection and the Problem of Offensive Language: [Link here](https://arxiv.org/pdf/1703.04009.pdf)
+   and [Notes](https://github.com/hellomasaya/Research-Papers/blob/master/Notes/Automated-Hate-Speech-Detection-and-the-Problem-of-Offensive-Language.md)
    
 ## 2019-03
   - Social Network and Sentiment Analysis on Twitter: Towards a Combined Approach: [Link here](http://ceur-ws.org/Vol-1489/paper-06.pdf)
