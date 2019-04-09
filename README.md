@@ -2,7 +2,7 @@
 
 ## 2019-04
 ### Sentiment analysis - Movie Reviews
-   - POLARITY DETECTION OF MOVIE REVIEWS IN HINDI LANGUAGE: [Link here](https://github.com/hellomasaya/Research-Papers/blob/master/Papers/moviereviews.pdf)
+   - POLARITY DETECTION OF MOVIE REVIEWS IN HINDI LANGUAGE: [Link here](https://github.com/hellomasaya/Research-Papers/blob/master/Papers/moviereviews.pdf) and [Notes](https://github.com/hellomasaya/Research-Papers/blob/master/Notes/polarity-detection-hindi-movie-reviews.md)
    - Analyzing Political Sentiment on Twitter: [Link here](https://github.com/hellomasaya/Research-Papers/blob/master/Papers/SentimentAnalysis.pdf)
    - SENTIMENT ANALYSIS OF MOVIE REVIEWS IN HINDI: [Link here](https://github.com/hellomasaya/Research-Papers/blob/master/Papers/moviereview2.pdf)
    - Rule-based Sentiment Analysis for Financial News: [Link here](https://github.com/hellomasaya/Research-Papers/blob/master/Papers/07379415.pdf)
