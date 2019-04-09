@@ -13,6 +13,11 @@
  
 ## Approach: 
 Created a hindi dictionary with synonyms-antonyms; handles negation - to determine polarity.
-### Data collection:
-  -
-  
+### Preprocessing of data:
+  - POS tagging to determine feature and opinion words.
+  - Seed list - most frequent words with polarity.
+  - Find opinion words(from after POS tagging) in seed list, if a word is not found in seed list, its synonyms are looked for  and if they match a word from seed list the opinion word along with its synonyms are stored in seed list
+
+### Polarity detection:
+   - The polarity of the reviews is determined on the basis of majority of opinion words, if positive words are more in the review than the polarity of the review is positive otherwise it is negative.
+   - Negation handling - if the opinion word is followed by not then the polarity of review is reversed.
