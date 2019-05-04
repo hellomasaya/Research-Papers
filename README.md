@@ -2,6 +2,7 @@
 
 ## 2019-04
 ### Sentiment analysis - Movie Reviews
+   - A rule based sentiment analysis in Telugu: [Link here](https://www.ijariit.com/manuscripts/v5i2/V5I2-1381.pdf?fbclid=IwAR0l6x6JQSgJ9RsBCSQYZhCteLznKes9AwBTOmrRD5oUKj64dnd-ccZmjQQ)
    - A Fall-back Strategy for Sentiment Analysis in Hindi: a Case Study: [Link here](https://www.cse.iitb.ac.in/~adityaj/HindiSentiWordnet_AdityaJ.pdf)
    - POLARITY DETECTION OF MOVIE REVIEWS IN HINDI LANGUAGE: [Link here](https://github.com/hellomasaya/Research-Papers/blob/master/Papers/moviereviews.pdf) and [Notes](https://github.com/hellomasaya/Research-Papers/blob/master/Notes/polarity-detection-hindi-movie-reviews.md)
    - Analyzing Political Sentiment on Twitter: [Link here](https://github.com/hellomasaya/Research-Papers/blob/master/Papers/SentimentAnalysis.pdf)
