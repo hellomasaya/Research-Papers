@@ -1,5 +1,5 @@
 # Research Paper Library & Notes
-
+ - NER in Hindi[Link](https://www.ijcseonline.org/pdf_paper_view.php?paper_id=2524&138-IJCSE-04109.pdf)
 ## 2019-05
 ### Machine Translation
 
